@@ -1,4 +1,6 @@
 # -Kaggle-Music_Sale
+#Data-visualization  #pandas  #matpiplot  #plotly.express
+#Clear data
 **Background:**
 The Music Industry Sales by Format and Year dataset provides comprehensive information on the sales data for different music formats over a span of 40 years. The dataset aims to analyze and visualize the trends in music industry sales, specifically focusing on various formats and metrics used to measure these sales.
 
